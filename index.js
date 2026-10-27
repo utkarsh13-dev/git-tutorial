@@ -17,3 +17,11 @@ console.log(num)
 function newfnc(){
     console.log("hey iam a new fnc")
 }
+
+function newfnc(){
+    console.log("new fnc added")
+}
+
+function parameter(){
+    console.log("climate")
+}
